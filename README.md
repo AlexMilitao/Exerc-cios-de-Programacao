@@ -1,5 +1,5 @@
 # Exercicios-de-Programacao
-Olá e seja bem-vindo ao meu humilde, GitHub!
+Olá e seja bem-vindo ao meu humilde eu ainda tenho que acertar algumas coisas mas é só o começo!
 
 Aqui estão alguns exercícios que fiz em Java enquanto ainda estava aprendendo a programar. Eu espero que eles possam ser úteis para outras pessoas que estão começando na programação.
 
