@@ -1,7 +1,7 @@
 # Exercicios-de-Programacao
-Olá e seja bem-vindo ao meu git eu ainda tenho que acertar algumas coisas mas é só o começo!
+Olá e seja bem-vindo ao meu git eu ainda estou aprendendo a mexer aqui mas já consegui subir algumas coisas.
 
-Aqui estão alguns exercícios que fiz em Java. E também um em portugol que eu tenho que colocar em outro lugar eu acho kk.
+Aqui estão alguns exercícios que fiz em Java E também um em portugol que foi o desafio final do curso.
 
 JOGO DA VELHA EM PORTUGOL:
 
