@@ -1,23 +1,13 @@
 # Exercicios-de-Programacao
 Olá e seja bem-vindo ao meu git eu ainda estou aprendendo a mexer aqui mas já consegui subir algumas coisas.
 
-Aqui esta um exercício que fiz em portugol que foi o desafio final do curso.
+MAPA (Material de Avaliação Prática de Aprendizagem):
 
-JOGO DA VELHA EM PORTUGOL:
-
-Apesar de ter compreendido a lógica de programação ao longo do curso, o exercício final foi extremamente desafiador. Ele exigia o uso de estruturas de repetição, estruturas condicionais, procedimentos, funções e matrizes em uma única atividade. Além disso, eu tinha que verificar se havia um vencedor no jogo e atualizar a tela a cada jogada.
-
-Levei mais de oito horas para conseguir finalizar o jogo de forma satisfatória, mas o orgulho de ter terminado valeu a pena. O desafio me mostrou o quão complexa pode ser a implementação de uma simples ideia, mas também me deu a oportunidade de aprender muito mais e tentar até dar certo.
+Neste exercício, foi pedido que imaginássemos que tivéssemos visitado um cliente e ele tivesse passado os requisitos necessários para o desenvolvimento de algumas telas do sistema de controle de pedidos. O cliente gostaria de ter uma ideia de como ficaria o resultado, e ele disse que as telas deveriam ser feitas conforme nossa criatividade, porém o layout deveria ser voltado para o ambiente web.
 
 Dificuldades:
+Foi no primeiro semestre, então as dificuldades foram muitas. No entanto, seguindo o foco do exercício, tínhamos que tomar cuidado para manter uma coerência de cores, botões, abas, etc. Não podíamos colocar botões-chave como "excluir" escondidos ou deixar alguma tela em que não pudesse ser editada em caso de erro. Foi bem interessante ter que pensar sempre no usuário e em como ele iria usar o sistema, tentando prevenir os erros que ele ou o sistema poderiam causar.
 
-Eu estava tentando entender como um número inteiro qualquer, como 1, 2, 3, por exemplo, poderia virar uma string "X" ou "O". Até eu compreender que poderia colocar "1" como uma string, foi complicado. Esse erro bobo me custou um bom tempo.
+PROTÓTIPO DE BAIXA FIDELIDADE (WIREFRAME):
 
-Fazer com que não pudesse ser colocado um "X" em cima de um "O" e vice-versa foi algo que me levou um tempo para encontrar a lógica também.
-
-Usar operadores lógicos, que eu me lembro foi explicado no curso, mas não teve nenhum exercício, foi difícil lembrar de colocá-los e usar a lógica para verificar se havia um vencedor e colocá-la em uma função.
-
-Fazer a indentação foi cansativo, principalmente pelo uso de vários "else-if".
-
-Fazer o fim do jogo foi bem complicado. Acredito que o "programa" não está perfeito ainda. Eu tive que colocar o fim do programa no meio dele em alguns casos. Não sei se foi a forma correta, mas ele funciona da maneira que deveria.
-
+Nesse exercício, foi mostrado um protótipo de média fidelidade, a partir do qual tínhamos que fazer um wireframe. Não foi nada muito complicado, mas serviu para entender o conceito as diferenças e a importância da prototipação.
