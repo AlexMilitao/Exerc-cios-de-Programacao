@@ -1,7 +1,7 @@
 # Exercicios-de-Programacao
 Olá e seja bem-vindo ao meu git eu ainda estou aprendendo a mexer aqui mas já consegui subir algumas coisas.
 
-Aqui estão alguns exercícios que fiz em Java E também um em portugol que foi o desafio final do curso.
+Aqui esta um exercício que fiz em portugol que foi o desafio final do curso.
 
 JOGO DA VELHA EM PORTUGOL:
 
