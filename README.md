@@ -21,8 +21,3 @@ Fazer a indentação foi cansativo, principalmente pelo uso de vários "else-if"
 
 Fazer o fim do jogo foi bem complicado. Acredito que o "programa" não está perfeito ainda. Eu tive que colocar o fim do programa no meio dele em alguns casos. Não sei se foi a forma correta, mas ele funciona da maneira que deveria.
 
-JAVA:
-
-Eu estou engatinhando em Java, mas com a base do Portugol, pude entender melhor os conceitos básicos e agora estou começando a estudar a orientação a objeto. Vou deixar por enquanto apenas um programa com e sem orientação para que possamos comparar os dois programas.
-
-Vantagens da orientação a objeto incluem o reaproveitamento de código e a coesão, já que cada classe é responsável por si mesma. Por exemplo, o cálculo da área deve estar na classe Triângulo, pois ela é a responsável por saber como calcular sua própria área. Além disso, a utilização de classes torna o programa mais legível e compreensível. A organização do código pode facilitar muito o processo de desenvolvimento!
